@@ -16,7 +16,8 @@ model-viewer {
     width: 100%;
 }
 
-.writeTable{
+.model-furniture{
+    border: 1px solid #283434;
     height: 30vh !important;
     width: 100%;
 }
