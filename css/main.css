@@ -15,3 +15,8 @@ model-viewer {
     height: 50vh;
     width: 100%;
 }
+
+.writeTable{
+    height: 30vh !important;
+    width: 100%;
+}

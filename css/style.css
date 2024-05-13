@@ -9574,9 +9574,6 @@ h6 {
 .team-carousel .owl-nav .owl-next,
 .service-carousel .owl-nav .owl-prev,
 .service-carousel .owl-nav .owl-next {
-  width: 40px;
-  height: 40px;
-  display: flex;
   align-items: center;
   justify-content: center;
   color: #252531;
